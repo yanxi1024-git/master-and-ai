@@ -1,4 +1,4 @@
-# 🎭 Master and AI / 师父与AI
+# 🎭 Master and Ai / AI伦理漫谈
 
 > *A Zen Dialogue Series on AI Ethics*  
 > *AI伦理禅意对话系列*
